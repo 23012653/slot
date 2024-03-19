@@ -1,6 +1,6 @@
 # Ex03 Time Table
 
-## Date:
+## Date:19.03.2024
 
 ## AIM
 
@@ -34,6 +34,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
+```
 <html>
 <head>
 <title>My Time Table</title>
@@ -46,7 +47,7 @@ Execute the program using runserver command.
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="Lavender">
 <caption><b>My Time Table - Anubharathi SS (212223040017)</b></caption>
 <tr align="center">
-<th bgcolor="purple">Day/Time</th> 
+<th bgcolor="purple">Day/Time</th>
 <th bgcolor="purple">Monday</th>
 <th bgcolor="purple">Tuesday</th>
 <th bgcolor="purple">Wednesday</th>
@@ -63,7 +64,7 @@ Execute the program using runserver command.
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
 <td>PROBABILITY AND QUEUEING MODELS</td>
 </tr>
-<tr> align="center">
+<tr align="center">
 <th bgcolor="purple">10-12</th>
 <td>SOFTWARE ENGINEERING</td>
 <td>PYTHON PROGRAMMING</td>
@@ -72,19 +73,19 @@ Execute the program using runserver command.
 <td>FREE SLOT</td>
 <td>OPERATING SYSTEM</td>
 </tr>
-<tr> align="center">
+<tr align="center">
 <th bgcolor="purple">12-1</th>
 <td colspan="6">LUNCH</td>
 </tr>
 <tr>
 <tr align="center">
 <th bgcolor="purple">1-3</th>
-<td>CREATIVE SKILLS</td> 
+<td>CREATIVE SKILLS</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
 <td>PYTHON PROGRAMMING</td>
 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
-<td>FREE SLOT</td> 
-<td>FREE SLOT</td>       
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
 </tr>
 <tr align="center">
 <th bgcolor="purple">3-5</th>
@@ -94,7 +95,7 @@ Execute the program using runserver command.
 <td>DIGITAL ELECTRONICS</td>
 <td>FREE SLOT</td>
 <td>FREE SLOT</td>
-</tr>     
+</tr>
 <table border="3" cellspacing="4" cellpadding="6" align="center" bgcolor="lightgrey">
 <caption>SUBJECT DETAILS</caption>
 <tr>
@@ -111,7 +112,7 @@ Execute the program using runserver command.
 <td>02</td>
 <td>19CS408</td>
 <td>Software Engineering</td>
-</tr> 
+</tr>
 <tr>
 <td>03</td>
 <td>19AI414</td>
@@ -139,11 +140,12 @@ Execute the program using runserver command.
 </tr>
 </body>
 </html>
+```
 
 ## OUTPUT
 
-![alt text](web-3-1.png)
-![alt text](<web 3-2.png>)
+![alt text](<WEB 3 OUTPUT.png>)
+![alt text](<WEB 3 2ND OUTPUT.png>)
 
 ## RESULT
 
